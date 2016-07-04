@@ -15,7 +15,7 @@ University "G. d'Annunzio" of Chieti-Pescara<br>
 Viale Pindaro 42<br>
 65127 Pescara<br>
 Italy<br>
-email: `davide.antonioli at unich.it`<br>
+email: `davide.antonioli@unich.it`<br>
 
 
 -----
