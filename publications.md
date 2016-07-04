@@ -44,15 +44,15 @@ permalink: /publications/
 
 [Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P), 2011,  Journal of Economic Studies, vol.38, n.1, pp.66-90. 
 
-The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy, (with Antonietti R.), 2011, International Review of Applied Economics, vol.25, n.1, pp.87-105. 
+[The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy](http://www.tandfonline.com/doi/abs/10.1080/02692171.2010.483461), (with Antonietti R.), 2011, International Review of Applied Economics, vol.25, n.1, pp.87-105. 
 
-Crisi economica e performance d’impresa: il ruolo dell’innovazione in un contesto produttivo locale, (with Bianchi A., Mazzanti M., Pini P.), 2010, Economia e Società Regionale, vol.109, n.1, pp.177-206.
+[Crisi economica e performance d’impresa: il ruolo dell’innovazione in un contesto produttivo locale](https://www.francoangeli.it/Riviste/Scheda_Rivista.aspx?idArticolo=39996), (with Bianchi A., Mazzanti M., Pini P.), 2010, Economia e Società Regionale, vol.109, n.1, pp.177-206.
 
-Productivity, Innovation Strategies and Industrial Relations in SMEs. Empirical evidence for a local production system in Northern Italy, (with Mazzanti M. e Pini P.), 2010, International Review of Applied Economics, vol.24, n.4, pp.453-482.
+[Productivity, Innovation Strategies and Industrial Relations in SMEs. Empirical evidence for a local production system in Northern Italy](http://www.tandfonline.com/doi/full/10.1080/02692171.2010.483790), (with Mazzanti M. e Pini P.), 2010, International Review of Applied Economics, vol.24, n.4, pp.453-482.
 
 [Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A., Mazzanti M. e Pini P.), 2010, Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183.
 
-I limiti del modello contrattuale dopo l’Accordo Quadro del 2009,, (with Pini P.), 2010, E.R.E., vol.2, n.4, pp.79-92. 
+I limiti del modello contrattuale dopo l’Accordo Quadro del 2009, (with Pini P.), 2010, E.R.E., vol.2, n.4, pp.79-92. 
 
 [Contrattazione e salari: i limiti dell'Accordo Quadro](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli), (with Pini P.), 2009, Quaderni di Rassegna Sindacale, n.2, annoX, pp.151-164.
 
