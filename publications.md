@@ -15,11 +15,11 @@ permalink: /publications/
 [Innovation adoption and training activities in SMEs](http://www.tandfonline.com/doi/full/10.1080/09585192.2015.1042901), (with E. Dellatorre), 2016, The International Journal of Human Resource Management, vol.27, n.3, 311-337
 
 
-Outsourcing and firm productivity in a specific local production system. Evidence from Reggio Emilia (Italy) (con Mazzanti M., Montresor S., Pini P.), 2015 , Growth and Change, vol.46, n.2, 292-320
+[Outsourcing and firm productivity in a specific local production system. Evidence from Reggio Emilia (Italy)](http://onlinelibrary.wiley.com/doi/10.1111/grow.12070/abstract) (with Mazzanti M., Montresor S., Pini P.), 2015, Growth and Change, vol.46, n.2, 292-320
 
 	
-Industry–research co-operation within and across regional boundaries. What does innovation policy add? (con Marzucchi A., Montresor S.), 2015, Papers in Regional Science, vol.94, n.3, 499-524
-Fascia A ANVUR; ISI IF:1.541
+[Industry–research co-operation within and across regional boundaries. What does innovation policy add?](http://onlinelibrary.wiley.com/doi/10.1111/pirs.12079/abstract) (with Marzucchi A., Montresor S.), 2015, Papers in Regional Science, vol.94, n.3, 499-524
+
 
 Analysing the Interactions of Energy and climate policies in a broad Policy ‘optimality’ framework. The Italian case study (con S. Borghesi, A. D’Amato, M. Gilli, F. Nicolli, M. Mazzanti), 2014, Journal of Integrative Environmental Sciences, vol.11, n.3-4, 205-224
 ISI IF:0.556
