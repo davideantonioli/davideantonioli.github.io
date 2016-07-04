@@ -9,14 +9,14 @@ permalink: /publications/
 [Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, forthcoming
 
 
-Are Regional systems greening the economy? Local spillovers, green innovations and firms’ economic performance, (with S. Borghesi, M. Mazzanti), Economics of Innovation and New Technology, onlinefirst: http://dx.doi.org/10.1080/10438599.2015.1127557
+[Are Regional systems greening the economy? Local spillovers, green innovations and firms’ economic performance](http://www.tandfonline.com/doi/full/10.1080/10438599.2015.1127557), (with S. Borghesi, M. Mazzanti), Economics of Innovation and New Technology, onlinefirst
 
 
-Innovation adoption and training activities in SMEs, (with E. Dellatorre), 2016, The International Journal of Human Resource Management, vol.27, n.3, 311-337
+[Innovation adoption and training activities in SMEs](http://www.tandfonline.com/doi/full/10.1080/09585192.2015.1042901), (with E. Dellatorre), 2016, The International Journal of Human Resource Management, vol.27, n.3, 311-337
 
 
 Outsourcing and firm productivity in a specific local production system. Evidence from Reggio Emilia (Italy) (con Mazzanti M., Montresor S., Pini P.), 2015 , Growth and Change, vol.46, n.2, 292-320
-Fascia A ANVUR; ISI IF:0.489
+
 	
 Industry–research co-operation within and across regional boundaries. What does innovation policy add? (con Marzucchi A., Montresor S.), 2015, Papers in Regional Science, vol.94, n.3, 499-524
 Fascia A ANVUR; ISI IF:1.541
