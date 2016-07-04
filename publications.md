@@ -78,4 +78,4 @@ permalink: /publications/
 
 [Strategie di innovazione e risultati economici. Un’indagine sulle imprese manifatturiere dell’Emilia-Romagna](http://www.francoangeli.it/ricerca/Scheda_libro.aspx?CodiceLibro=365.874) (with Bianchi A., Mazzanti M., Montresor S., Pini P.), Milano, FrancoAngeli, 2011.
 
-Dinamiche innovative, relazioni industriali, performance nelle imprese manifatturiere. II^ Indagine sul sistema locale di Reggio Emilia, (with Delsoldato L., Mazzanti M., Pini P.), Milano, FrancoAngeli, 2007.
+[Dinamiche innovative, relazioni industriali, performance nelle imprese manifatturiere. II^ Indagine sul sistema locale di Reggio Emilia](http://www.francoangeli.it/Ricerca/Scheda_libro.aspx?CodiceLibro=365.521), (with Delsoldato L., Mazzanti M., Pini P.), Milano, FrancoAngeli, 2007.
