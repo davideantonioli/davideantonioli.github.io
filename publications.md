@@ -52,30 +52,30 @@ permalink: /publications/
 
 [Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A., Mazzanti M. e Pini P.), 2010, Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183.
 
-I limiti del modello contrattuale dopo l’Accordo Quadro del 2009, (with Pini P.), 2010, E.R.E., vol.2, n.4, pp.79-92. 
+[I limiti del modello contrattuale dopo l’Accordo Quadro del 2009](http://www.editricesocialmente.it/allegati/2_ERE_N04.pdf), (with Pini P.), 2010, E.R.E., vol.2, n.4, pp.79-92. 
 
 [Contrattazione e salari: i limiti dell'Accordo Quadro](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli), (with Pini P.), 2009, Quaderni di Rassegna Sindacale, n.2, annoX, pp.151-164.
 
-Techno-organisational strategies, environmental innovations and economic performances. Micro-evidence from a SME-based industrial district, (with Mazzanti M.), 2009, Journal of Innovation Economics, vol.1, n.3, pp.145-168.
+[Techno-organisational strategies, environmental innovations and economic performances. Micro-evidence from a SME-based industrial district](https://www.cairn.info/revue-journal-of-innovation-economics-2009-1-page-145.htm), (with Mazzanti M.), 2009, Journal of Innovation Economics, vol.1, n.3, pp.145-168.
 
-Industrial Relations, Techno-Organizational Innovation and Firm Economic Performance, 2009, Economia Politica, n.1, pp.21-52.
+[Industrial Relations, Techno-Organizational Innovation and Firm Economic Performance](https://www.rivisteweb.it/doi/10.1428/29091), 2009, Economia Politica, n.1, pp.21-52.
 
 
-Innovation, Working Conditions and Industrial Relations. Evidence for a Local Production System, (with Mazzanti M. e Pini P.), 2009, Economic and industrial Democracy, vol.30, n.2, pp157-181.
+[Innovation, Working Conditions and Industrial Relations. Evidence for a Local Production System](http://eid.sagepub.com/content/30/2/157.abstract), (with Mazzanti M. e Pini P.), 2009, Economic and industrial Democracy, vol.30, n.2, pp157-181.
 	
 
-Impresa, relazioni industriali e innovazione. Dieci anni di indagini sui sistemi produttivi locali dell’Emilia Romagna, (with Pini P.), 2009, E.R.E., vol.1, n.1, pp.86-100.
+[Impresa, relazioni industriali e innovazione. Dieci anni di indagini sui sistemi produttivi locali dell’Emilia Romagna](http://www.editricesocialmente.it/allegati/2_ERE_N01.pdf), (with Pini P.), 2009, E.R.E., vol.1, n.1, pp.86-100.
 
-Innovazione tecno-organizzativa e relazioni industriali in un contesto locale, 2007, Economia e Società Regionale, anno XXV, n.4, pp.67-100.
+[Innovazione tecno-organizzativa e relazioni industriali in un contesto locale](http://www.francoangeli.it/riviste/Scheda_rivista.aspx?IDArticolo=32575), 2007, Economia e Società Regionale, anno XXV, n.4, pp.67-100.
 
 [Partecipazione diretta, partecipazione indiretta e innovazioni tecnico-organizzative. Alcuni risultati per il sistema locale di Reggio Emilia](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Paolo Pini), 2005, Quaderni Rassegna Sindacale, annoIV, n.2, pp.195-225.
 
-Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System, (with Mazzanti M., Pini P. e Tortia E.),2004, Economia Politica, anno XXI, n.1, pp.11-52.
+[Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System](https://www.rivisteweb.it/doi/10.1428/13035), (with Mazzanti M., Pini P. e Tortia E.),2004, Economia Politica, anno XXI, n.1, pp.11-52.
 
-Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), 2004, Istituzioni e Sviluppo Economico, vol.2, no.1, pp.65-104.
+[Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), 2004, Istituzioni e Sviluppo Economico](http://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=22519&Tipo=Articolo%20PDF&idRivista=111), vol.2, no.1, pp.65-104.
 
 ### Books
 
-Strategie di innovazione e risultati economici. Un’indagine sulle imprese manifatturiere dell’Emilia-Romagna (with Bianchi A., Mazzanti M., Montresor S., Pini P.), Milano, FrancoAngeli, 2011.
+[Strategie di innovazione e risultati economici. Un’indagine sulle imprese manifatturiere dell’Emilia-Romagna](http://www.francoangeli.it/ricerca/Scheda_libro.aspx?CodiceLibro=365.874) (with Bianchi A., Mazzanti M., Montresor S., Pini P.), Milano, FrancoAngeli, 2011.
 
 Dinamiche innovative, relazioni industriali, performance nelle imprese manifatturiere. II^ Indagine sul sistema locale di Reggio Emilia, (with Delsoldato L., Mazzanti M., Pini P.), Milano, FrancoAngeli, 2007.
