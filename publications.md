@@ -35,44 +35,44 @@ permalink: /publications/
 [Innovation Strategies and Economic Crisis: Evidence fromFirm-level Italian Data](https://www.rivisteweb.it/doi/10.1428/73099) (with Bianchi A., Mazzanti M., Montresor S.  Pini P.), 2013, Economia Politica, XXX, n. 1, pp.15-49.
 
 
-[Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension](http://www.inderscienceonline.com/doi/abs/10.1504/WRSTSD.2012.047685?journalCode=wrstsd) (with Marzucchi A.), World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", 2012, vol.9, n2/3/4, pp.124-148. 
+[Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension](http://www.inderscienceonline.com/doi/abs/10.1504/WRSTSD.2012.047685?journalCode=wrstsd) (with Marzucchi A.), 2012, World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", vol.9, n2/3/4, pp.124-148. 
 
-[Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A. e Pini P.), Quaderni di Rassegna Sindacale, vol.XII, n.2, pp.239-258, 2011. 
+[Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A. e Pini P.), 2011, Quaderni di Rassegna Sindacale, vol.XII, n.2, pp.239-258. 
 
-[Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data](http://www.sciencedirect.com/science/article/pii/S1053535711000023), (with Manzalini R., Pini P.), Journal of Socio Economics, 2011, vol.40, n.3, pp.312-326. 
-
-
-[Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P),  Journal of Economic Studies, 2011, vol.38, n.1, pp.66-90. 
-
-The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy, (with Antonietti R.), International Review of Applied Economics, 2011, vol.25, n.1, pp.87-105. 
-
-Crisi economica e performance d’impresa: il ruolo dell’innovazione in un contesto produttivo locale, (with Bianchi A., Mazzanti M., Pini P.), Economia e Società Regionale, 2010, vol.109, n.1, pp.177-206.
-
-Productivity, Innovation Strategies and Industrial Relations in SMEs. Empirical evidence for a local production system in Northern Italy, (with Mazzanti M. e Pini P.), International Review of Applied Economics, 2010, vol.24, n.4, pp.453-482.
-
-[Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A., Mazzanti M. e Pini P.), Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183, 2010
-
-I limiti del modello contrattuale dopo l’Accordo Quadro del 2009,, (with Pini P.), E.R.E., 2010, vol.2, n.4, pp.79-92. 
-
-[Contrattazione e salari: i limiti dell'Accordo Quadro](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli), (with Pini P.), Quaderni di Rassegna Sindacale, n.2, 2009, annoX, pp.151-164.
-
-Techno-organisational strategies, environmental innovations and economic performances. Micro-evidence from a SME-based industrial district, (with Mazzanti M.), Journal of Innovation Economics, 2009, vol.1, n.3, pp.145-168.
-
-Industrial Relations, Techno-Organizational Innovation and Firm Economic Performance, Economia Politica, Aprile 2009, n.1, pp.21-52.
+[Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data](http://www.sciencedirect.com/science/article/pii/S1053535711000023), (with Manzalini R., Pini P.), 2011, Journal of Socio Economics, vol.40, n.3, pp.312-326. 
 
 
-Innovation, Working Conditions and Industrial Relations. Evidence for a Local Production System, (with Mazzanti M. e Pini P.), Economic and industrial Democracy, 2009, vol.30, n.2, pp157-181.
+[Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P), 2011,  Journal of Economic Studies, vol.38, n.1, pp.66-90. 
+
+The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy, (with Antonietti R.), 2011, International Review of Applied Economics, vol.25, n.1, pp.87-105. 
+
+Crisi economica e performance d’impresa: il ruolo dell’innovazione in un contesto produttivo locale, (with Bianchi A., Mazzanti M., Pini P.), 2010, Economia e Società Regionale, vol.109, n.1, pp.177-206.
+
+Productivity, Innovation Strategies and Industrial Relations in SMEs. Empirical evidence for a local production system in Northern Italy, (with Mazzanti M. e Pini P.), 2010, International Review of Applied Economics, vol.24, n.4, pp.453-482.
+
+[Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A., Mazzanti M. e Pini P.), 2010, Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183.
+
+I limiti del modello contrattuale dopo l’Accordo Quadro del 2009,, (with Pini P.), 2010, E.R.E., vol.2, n.4, pp.79-92. 
+
+[Contrattazione e salari: i limiti dell'Accordo Quadro](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli), (with Pini P.), 2009, Quaderni di Rassegna Sindacale, n.2, annoX, pp.151-164.
+
+Techno-organisational strategies, environmental innovations and economic performances. Micro-evidence from a SME-based industrial district, (with Mazzanti M.), 2009, Journal of Innovation Economics, vol.1, n.3, pp.145-168.
+
+Industrial Relations, Techno-Organizational Innovation and Firm Economic Performance, 2009, Economia Politica, n.1, pp.21-52.
+
+
+Innovation, Working Conditions and Industrial Relations. Evidence for a Local Production System, (with Mazzanti M. e Pini P.), 2009, Economic and industrial Democracy, vol.30, n.2, pp157-181.
 	
 
-Impresa, relazioni industriali e innovazione. Dieci anni di indagini sui sistemi produttivi locali dell’Emilia Romagna, (with Pini P.), E.R.E., 2009, vol.1, n.1, pp.86-100.
+Impresa, relazioni industriali e innovazione. Dieci anni di indagini sui sistemi produttivi locali dell’Emilia Romagna, (with Pini P.), 2009, E.R.E., vol.1, n.1, pp.86-100.
 
-Innovazione tecno-organizzativa e relazioni industriali in un contesto locale, Economia e Società Regionale, 2007, anno XXV, n.4, pp.67-100.
+Innovazione tecno-organizzativa e relazioni industriali in un contesto locale, 2007, Economia e Società Regionale, anno XXV, n.4, pp.67-100.
 
-[Partecipazione diretta, partecipazione indiretta e innovazioni tecnico-organizzative. Alcuni risultati per il sistema locale di Reggio Emilia](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Paolo Pini), Quaderni Rassegna Sindacale, 2005, annoIV, n.2, pp.195-225.
+[Partecipazione diretta, partecipazione indiretta e innovazioni tecnico-organizzative. Alcuni risultati per il sistema locale di Reggio Emilia](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Paolo Pini), 2005, Quaderni Rassegna Sindacale, annoIV, n.2, pp.195-225.
 
-Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System, (with Mazzanti M., Pini P. e Tortia E.), Economia Politica, 2004, anno XXI, n.1, pp.11-52.
+Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System, (with Mazzanti M., Pini P. e Tortia E.),2004, Economia Politica, anno XXI, n.1, pp.11-52.
 
-Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), Istituzioni e Sviluppo Economico, 2004, vol.2, no.1, pp.65-104.
+Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), 2004, Istituzioni e Sviluppo Economico, vol.2, no.1, pp.65-104.
 
 ### Books
 
