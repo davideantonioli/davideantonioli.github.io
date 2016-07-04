@@ -19,7 +19,7 @@ email: `davide.antonioli@unich.it`<br>
 
 ### Links
 
-[Deapartment of Management and Business Administration](http://www.dea.unich.it/l
+[Deapartment of Management and Business Administration](http://www.dea.unich.it/)
 
 [IdeasRepec](http://ideas.repec.org/f/pan296.html)
 
