@@ -24,25 +24,25 @@ permalink: /publications/
 [Analysing the Interactions of Energy and climate policies in a broad Policy ‘optimality’ framework. The Italian case study](http://www.tandfonline.com/doi/full/10.1080/1943815X.2014.962549) (with S. Borghesi, A. D’Amato, M. Gilli, F. Nicolli, M. Mazzanti), 2014, Journal of Integrative Environmental Sciences, vol.11, n.3-4, 205-224
 
  
-Regional innovation policy and innovative behaviour. Looking for additional effects (with Marzucchi A., Montresor S.), 2014, European Planning Studies, vol.22, No. 1, 64–83. 
+[Regional innovation policy and innovative behaviour. Looking for additional effects](http://www.tandfonline.com/doi/abs/10.1080/09654313.2012.722977) (with Marzucchi A., Montresor S.), 2014, European Planning Studies, vol.22, No. 1, 64–83. 
 
 
-La debolezza dell'attività innovativa delle imprese Italiane, 2014, Economia & Lavoro, anno XLVII, pp.10-15
+[La debolezza dell'attività innovativa delle imprese Italiane](https://www.rivisteweb.it/doi/10.7384/75672), 2013, Economia & Lavoro, anno XLVII, pp.10-15
 
-Is environmental innovation embedded within high-performance organizational changes? The role of human resource management and complementarity in green business strategies (with Mancinelli S., Mazzanti M.), 2013, Research Policy, vol.42, pp.975-988.
-
-
-Innovation Strategies and Economic Crisis: Evidence fromFirm-level Italian Data (with Bianchi A., Mazzanti M., Montresor S.  Pini P.), 2013, Economia Politica, XXX, n. 1, pp.15-49.
+[Is environmental innovation embedded within high-performance organizational changes? The role of human resource management and complementarity in green business strategies](http://www.sciencedirect.com/science/article/pii/S0048733313000036) (with Mancinelli S., Mazzanti M.), 2013, Research Policy, vol.42, pp.975-988.
 
 
-Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension (with Marzucchi A.), World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", 2012, vol.9, n2/3/4, pp.124-148. 
-
-Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna (with Bianchi A. e Pini P.), Quaderni di Rassegna Sindacale, vol.XII, n.2, pp.239-258, 2011. 
-
-Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data, (with Manzalini R., Pini P.), Journal of Socio Economics, 2011, vol.40, n.3, pp.312-326. 
+[Innovation Strategies and Economic Crisis: Evidence fromFirm-level Italian Data](https://www.rivisteweb.it/doi/10.1428/73099) (with Bianchi A., Mazzanti M., Montresor S.  Pini P.), 2013, Economia Politica, XXX, n. 1, pp.15-49.
 
 
-Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy (with. Mazzanti M., Pini P),  Journal of Economic Studies, 2011, vol.38, n.1, pp.66-90. 
+[Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension](http://www.inderscienceonline.com/doi/abs/10.1504/WRSTSD.2012.047685?journalCode=wrstsd) (with Marzucchi A.), World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", 2012, vol.9, n2/3/4, pp.124-148. 
+
+[Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A. e Pini P.), Quaderni di Rassegna Sindacale, vol.XII, n.2, pp.239-258, 2011. 
+
+[Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data](http://www.sciencedirect.com/science/article/pii/S1053535711000023), (with Manzalini R., Pini P.), Journal of Socio Economics, 2011, vol.40, n.3, pp.312-326. 
+
+
+[Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P),  Journal of Economic Studies, 2011, vol.38, n.1, pp.66-90. 
 
 The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy, (with Antonietti R.), International Review of Applied Economics, 2011, vol.25, n.1, pp.87-105. 
 
@@ -50,11 +50,11 @@ Crisi economica e performance d’impresa: il ruolo dell’innovazione in un con
 
 Productivity, Innovation Strategies and Industrial Relations in SMEs. Empirical evidence for a local production system in Northern Italy, (with Mazzanti M. e Pini P.), International Review of Applied Economics, 2010, vol.24, n.4, pp.453-482.
 
-Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna (with Bianchi A., Mazzanti M. e Pini P.), Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183, 2010
+[Produttività, innovazione e relazioni industriali: fattori di crescita dell’Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A., Mazzanti M. e Pini P.), Quaderni di Rassegna Sindacale, vol.XI, n.2, pp.137-183, 2010
 
 I limiti del modello contrattuale dopo l’Accordo Quadro del 2009,, (with Pini P.), E.R.E., 2010, vol.2, n.4, pp.79-92. 
 
-Contrattazione e salari: i limiti dell'Accordo Quadro, (with Pini P.), Quaderni di Rassegna Sindacale, n.2, 2009, annoX, pp.151-164.
+[Contrattazione e salari: i limiti dell'Accordo Quadro](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli), (with Pini P.), Quaderni di Rassegna Sindacale, n.2, 2009, annoX, pp.151-164.
 
 Techno-organisational strategies, environmental innovations and economic performances. Micro-evidence from a SME-based industrial district, (with Mazzanti M.), Journal of Innovation Economics, 2009, vol.1, n.3, pp.145-168.
 
@@ -68,10 +68,9 @@ Impresa, relazioni industriali e innovazione. Dieci anni di indagini sui sistemi
 
 Innovazione tecno-organizzativa e relazioni industriali in un contesto locale, Economia e Società Regionale, 2007, anno XXV, n.4, pp.67-100.
 
-Partecipazione diretta, partecipazione indiretta e innovazioni tecnico-organizzative. Alcuni risultati per il sistema locale di Reggio Emilia (with Paolo Pini), Quaderni Rassegna Sindacale, 2005, annoIV, n.2, pp.195-225.
+[Partecipazione diretta, partecipazione indiretta e innovazioni tecnico-organizzative. Alcuni risultati per il sistema locale di Reggio Emilia](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Paolo Pini), Quaderni Rassegna Sindacale, 2005, annoIV, n.2, pp.195-225.
 
 Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System, (with Mazzanti M., Pini P. e Tortia E.), Economia Politica, 2004, anno XXI, n.1, pp.11-52.
-
 
 Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), Istituzioni e Sviluppo Economico, 2004, vol.2, no.1, pp.65-104.
 
