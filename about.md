@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an Associate Professor in Political Economy in the [Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara. 
+I am an Associate Professor in Political Economy in the [Department of Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara. 
 
 
 #### Contact
