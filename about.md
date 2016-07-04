@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an Associate Professor in Political Economy in the [Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Contact
 
-### Contact me
+Davide Antonioli<br>
+Department of Management and Business Administration - DEA<br>
+University "G. d'Annunzio" of Chieti-Pescara<br>
+Viale Pindaro 42<br>
+65127 Pescara<br>
+Italy<br>
+email: `davide.antonioli at unich.it`<br>
 
-[email@domain.com](mailto:email@domain.com)
+
+-----
+
+### Research interests
