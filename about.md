@@ -8,6 +8,8 @@ I am an Associate Professor in Political Economy in the [Department of Managemen
 
 Look [here]({{ https://github.com/davideantonioli/davideantonioli.github.io/tree/master/ }}/images/CV_Antonioli_Feb2016.pdf) for a brief but updated (sort of) version of my CV.
 
+-----
+
 ### Contact
 
 Davide Antonioli<br>
@@ -17,6 +19,8 @@ Viale Pindaro 42<br>
 65127 Pescara<br>
 Italy<br>
 email: `davide.antonioli@unich.it`<br>
+
+-----
 
 ### Links
 
