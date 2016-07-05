@@ -72,7 +72,7 @@ permalink: /publications/
 
 [Adoption of Techno-Organizational Innovations and Industrial Relations in Manufacturing Firms: An Analysis for a Local Industrial System](https://www.rivisteweb.it/doi/10.1428/13035), (with Mazzanti M., Pini P. e Tortia E.),2004, Economia Politica, anno XXI, n.1, pp.11-52.
 
-[Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale (with Paolo Pini), 2004, Istituzioni e Sviluppo Economico](http://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=22519&Tipo=Articolo%20PDF&idRivista=111), vol.2, no.1, pp.65-104.
+[Dinamiche innovative e performance d’impresa: analisi cluster per un sistema industriale locale](http://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=22519&Tipo=Articolo%20PDF&idRivista=111) (with Paolo Pini), 2004, Istituzioni e Sviluppo Economico, vol.2, no.1, pp.65-104.
 
 ### Books
 
