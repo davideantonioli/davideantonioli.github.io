@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I am an Associate Professor in Political Economy in the [Department of Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara. 
+
 Look [here]({{ https://github.com/davideantonioli/davideantonioli.github.io/tree/master/ }}/images/CV_Antonioli_Feb2016.pdf) for a brief but updated (sort of) version of my CV.
 
 ### Contact
