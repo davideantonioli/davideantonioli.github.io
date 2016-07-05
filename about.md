@@ -23,7 +23,7 @@ email: `davide.antonioli@unich.it`<br>
 
 [IdeasRepec](http://ideas.repec.org/f/pan296.html)
 
-[ResearchGate]({{ site.url }}/images/ResearchGate.png)(https://www.researchgate.net/profile/Davide_Antonioli)
+[ResearchGate]({{ https://github.com/davideantonioli/davideantonioli.github.io/tree/master }}/images/ResearchGate.png)(https://www.researchgate.net/profile/Davide_Antonioli)
 
 [Google Scholar](http://scholar.google.it/citations?user=j0YsPxMAAAAJ&hl=it)
 
