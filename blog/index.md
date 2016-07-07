@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/blog
 ---
+
+<!-- permalink: /blog/blog -->
 
  <div class="posts">
 {% for post in site.posts %}
