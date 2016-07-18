@@ -17,4 +17,4 @@ Postgraduate course of European Political Economy
 -----
 
 ### [Labour Economics (UNIFE)](http://www.unife.it/economia/economia/insegnamenti/economia-del-lavoro)
-Undrgraduate course of Labour Economics
+Undergraduate course of Labour Economics
