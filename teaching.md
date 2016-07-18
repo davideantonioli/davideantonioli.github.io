@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-From the Academic Year 2016-2017 I am involved in the following teaching activities:
+Academic Year 2016-2017 
 
 ### Political Economy (UNICH)
 Undergraduate course of Political Economy
