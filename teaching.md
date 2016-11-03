@@ -16,7 +16,7 @@ Postgraduate course of European Political Economy (LM77)
 
 -----
 
-### PhD in ACCOUNTING, MANAGEMENT AND BUSINESS ECONOMICS (UNICH)
+### [PhD in ACCOUNTING, MANAGEMENT AND BUSINESS ECONOMICS (UNICH)](http://www.dea.unich.it/ricerca)
 Personnel Economics
 
 -----
