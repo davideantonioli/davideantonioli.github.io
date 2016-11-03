@@ -18,3 +18,8 @@ Postgraduate course of European Political Economy (LM77)
 
 ### [Labour Economics (UNIFE)](http://www.unife.it/economia/economia/insegnamenti/economia-del-lavoro)
 Undergraduate course of Labour Economics (L18)
+
+-----
+
+### PhD in ACCOUNTING, MANAGEMENT AND BUSINESS ECONOMICS
+Personnel Economics
