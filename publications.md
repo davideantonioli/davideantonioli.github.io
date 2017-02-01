@@ -5,11 +5,14 @@ permalink: /publications/
 ---
 
 ### Articles
+
+[Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), (with R. Antonietti, P. Pini), International Journal of Manpower, forthcoming
+
+[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, forthcoming
+
 [Towards a green economy through innovations: The role of trade union involvement](http://www.sciencedirect.com/science/article/pii/S0921800915305085), 2017, (with M. Mazzanti), Ecological Economics, vol.131, January, 286-299
 
 [The Effect of Intrinsic and Extrinsic Motivations on Academics’ Entrepreneurial Intention](http://www.mdpi.com/2076-3387/6/4/15), 2016, (with F. Nicolli, L. Ramaciotti, U. Rizzo), Adminstrative Sciences, vol.6, n.4, 1-18
-
-[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, forthcoming
 
 
 [Are Regional systems greening the economy? Local spillovers, green innovations and firms’ economic performance](http://www.tandfonline.com/doi/full/10.1080/10438599.2015.1127557), (with S. Borghesi, M. Mazzanti), 2016, Economics of Innovation and New Technology, vol.25, n.7, 692-713
