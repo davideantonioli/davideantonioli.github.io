@@ -6,13 +6,13 @@ permalink: /teaching/
 
 Academic Year 2016-2017 
 
-### [Political Economy (UNICH)](http://elearning.unich.it/enrol/index.php?id=261)
-Undergraduate course of Political Economy (L18)
+### [Economic Policy (UNICH)](http://elearning.unich.it/enrol/index.php?id=261)
+Undergraduate course of Economic Policy (L18)
 
 -----
 
-### [European Political Economy (UNICH)](http://elearning.unich.it/enrol/index.php?id=259)
-Postgraduate course of European Political Economy (LM77)
+### [European Economic Policy (UNICH)](http://elearning.unich.it/enrol/index.php?id=259)
+Postgraduate course of European Economic Policy (LM77)
 
 -----
 
