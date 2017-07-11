@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Articles
 
-[Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), (with R. Antonietti, P. Pini), International Journal of Manpower, forthcoming
+[Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), (with R. Antonietti, P. Pini), International Journal of Manpower, vol.38, n.4, 548-566
 
 [Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, forthcoming
 
