@@ -10,6 +10,8 @@ permalink: /publications/
 
 [Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), 2017, (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, online-first
 
+[Pain shared, pain halved? Cooperation as a coping strategy for innovation barriers](https://link.springer.com/article/10.1007/s10961-016-9545-9?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue), 2017, (with Marzucchi A., Savona M.), The Journal of Technology Transfer, vol.42, n.4., 841-864
+
 [Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), 2017, (with R. Antonietti, P. Pini), International Journal of Manpower, vol.38, n.4, 548-566
 
 [Towards a green economy through innovations: The role of trade union involvement](http://www.sciencedirect.com/science/article/pii/S0921800915305085), 2017, (with M. Mazzanti), Ecological Economics, vol.131, January, 286-299
