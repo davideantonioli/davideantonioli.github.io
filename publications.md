@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### Articles
+[Information communication technologies and environmental innovations in firms: joint adoptions and productivity effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1401528), 2017, (with G. Cecere, M. Mazzanti), Journal of Environmental Planning and Management, online-first
 
 [Waste performance, waste technology and policy effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1336431), 2017, (with F. Caratù, F. Nicolli), Journal of Environmental Planning and Management, online-first
 
