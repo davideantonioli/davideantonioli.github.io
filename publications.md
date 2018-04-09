@@ -9,7 +9,7 @@ permalink: /publications/
 
 [Waste performance, waste technology and policy effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1336431), 2017, (with F. Caratù, F. Nicolli), Journal of Environmental Planning and Management, online-first
 
-[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), 2017, (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, online-first
+[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), 2018, (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, vol.24, n.1., 141-163
 
 [Pain shared, pain halved? Cooperation as a coping strategy for innovation barriers](https://link.springer.com/article/10.1007/s10961-016-9545-9?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue), 2017, (with Marzucchi A., Savona M.), The Journal of Technology Transfer, vol.42, n.4., 841-864
 
