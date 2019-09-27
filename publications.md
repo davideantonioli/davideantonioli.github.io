@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 ### Articles
+
+
+[Innovation persistence in times of crisis: an analysis of Italian firms](https://doi.org/10.1007/s11187-019-00231-z), 2019, (with S. Montresor), Small Business Economics, online-first
+
 [Information communication technologies and environmental innovations in firms: joint adoptions and productivity effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1401528), 2018, (with G. Cecere, M. Mazzanti), Journal of Environmental Planning and Management, vol.61, n.11, 1905-1933
 
 [Waste performance, waste technology and policy effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1336431), 2018, (with F. Caratù, F. Nicolli), Journal of Environmental Planning and Management, vol.61, n.11, 1883-1904
@@ -90,3 +94,6 @@ permalink: /publications/
 [Strategie di innovazione e risultati economici. Un’indagine sulle imprese manifatturiere dell’Emilia-Romagna](http://www.francoangeli.it/ricerca/Scheda_libro.aspx?CodiceLibro=365.874) (with Bianchi A., Mazzanti M., Montresor S., Pini P.), Milano, FrancoAngeli, 2011.
 
 [Dinamiche innovative, relazioni industriali, performance nelle imprese manifatturiere. II^ Indagine sul sistema locale di Reggio Emilia](http://www.francoangeli.it/Ricerca/Scheda_libro.aspx?CodiceLibro=365.521), (with Delsoldato L., Mazzanti M., Pini P.), Milano, FrancoAngeli, 2007.
+
+
+
