@@ -37,4 +37,4 @@ email: `davide.antonioli@unich.it`<br>
 
 -----
 
-### Research interests
+% ### Research interests
