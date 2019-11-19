@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I curently am an Associate Professor in Political Economy in the [Department of Economics and Management](http://eco.unife.it/it) at the University of Ferrara.
+I currently am an Associate Professor in Political Economy in the [Department of Economics and Management](http://eco.unife.it/it) at the University of Ferrara.
 
 Formerly, I was an Associate Professor in Economic Policy in the [Department of Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara. (January 2016 - September 2019)
 
