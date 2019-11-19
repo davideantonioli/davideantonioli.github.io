@@ -19,7 +19,7 @@ Davide Antonioli<br>
 Department of Economics and Management - DEM<br>
 University Ferrara<br>
 Via Voltapaletto 11<br>
-44121 Pescara<br>
+44121 Ferrara<br>
 Italy<br>
 email: `davide.antonioli@unife.it`<br>
 
