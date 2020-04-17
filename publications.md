@@ -7,59 +7,59 @@ permalink: /publications/
 ### Articles
 
 
-[Specialization and KIBS in the Euro area: a vertically integrated sector perspective](https://www.tandfonline.com/doi/full/10.1080/02692171.2019.1708278), 2020, (with C. Di Berardino, G. Onesti), International Review of Applied Economics, online-first
+[Specialization and KIBS in the Euro area: a vertically integrated sector perspective](https://www.tandfonline.com/doi/full/10.1080/02692171.2019.1708278), 2020, (with C. Di Berardino, G. Onesti), International Review of Applied Economics, 34(2), 267-290
 
 [Innovation persistence in times of crisis: an analysis of Italian firms](https://doi.org/10.1007/s11187-019-00231-z), 2019, (with S. Montresor), Small Business Economics, online-first
 
-[Information communication technologies and environmental innovations in firms: joint adoptions and productivity effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1401528), 2018, (with G. Cecere, M. Mazzanti), Journal of Environmental Planning and Management, vol.61, n.11, 1905-1933
+[Information communication technologies and environmental innovations in firms: joint adoptions and productivity effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1401528), 2018, (with G. Cecere, M. Mazzanti), Journal of Environmental Planning and Management, 61(11), 1905-1933
 
-[Waste performance, waste technology and policy effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1336431), 2018, (with F. Caratù, F. Nicolli), Journal of Environmental Planning and Management, vol.61, n.11, 1883-1904
+[Waste performance, waste technology and policy effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1336431), 2018, (with F. Caratù, F. Nicolli), Journal of Environmental Planning and Management, 61(11), 1883-1904
 
-[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), 2018, (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, vol.24, n.1, 141-163
+[Backing Environmental Innovations through Information Technology Adoption. Empirical Analysis of Innovation-Related Complementarities in Firms](http://www.tandfonline.com/doi/abs/10.3846/20294913.2015.1124151), 2018, (with M. Gilli, M. Mazzanti, F. Nicolli), Technological and Economic Development of Economy, 24(1), 141-163
 
-[Pain shared, pain halved? Cooperation as a coping strategy for innovation barriers](https://link.springer.com/article/10.1007/s10961-016-9545-9?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue), 2017, (with Marzucchi A., Savona M.), The Journal of Technology Transfer, vol.42, n.4, 841-864
+[Pain shared, pain halved? Cooperation as a coping strategy for innovation barriers](https://link.springer.com/article/10.1007/s10961-016-9545-9?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue), 2017, (with Marzucchi A., Savona M.), The Journal of Technology Transfer, 42(4), 841-864
 
-[Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), 2017, (with R. Antonietti, P. Pini), International Journal of Manpower, vol.38, n.4, 548-566
+[Flexible pay systems and labour productivity: Evidence from manufacturing firms in Emilia-Romagna](http://www.emeraldinsight.com/journal/ijm), 2017, (with R. Antonietti, P. Pini), International Journal of Manpower, 38(4), 548-566
 
-[Towards a green economy through innovations: The role of trade union involvement](http://www.sciencedirect.com/science/article/pii/S0921800915305085), 2017, (with M. Mazzanti), Ecological Economics, vol.131, January, 286-299
+[Towards a green economy through innovations: The role of trade union involvement](http://www.sciencedirect.com/science/article/pii/S0921800915305085), 2017, (with M. Mazzanti), Ecological Economics, 131, 286-299
 
-[The Effect of Intrinsic and Extrinsic Motivations on Academics’ Entrepreneurial Intention](http://www.mdpi.com/2076-3387/6/4/15), 2016, (with F. Nicolli, L. Ramaciotti, U. Rizzo), Adminstrative Sciences, vol.6, n.4, 1-18
-
-
-[Are Regional systems greening the economy? Local spillovers, green innovations and firms’ economic performance](http://www.tandfonline.com/doi/full/10.1080/10438599.2015.1127557), (with S. Borghesi, M. Mazzanti), 2016, Economics of Innovation and New Technology, vol.25, n.7, 692-713
+[The Effect of Intrinsic and Extrinsic Motivations on Academics’ Entrepreneurial Intention](http://www.mdpi.com/2076-3387/6/4/15), 2016, (with F. Nicolli, L. Ramaciotti, U. Rizzo), Adminstrative Sciences, 6(4), 1-18
 
 
-[Innovation adoption and training activities in SMEs](http://www.tandfonline.com/doi/full/10.1080/09585192.2015.1042901), (with E. Dellatorre), 2016, The International Journal of Human Resource Management, vol.27, n.3, 311-337
+[Are Regional systems greening the economy? Local spillovers, green innovations and firms’ economic performance](http://www.tandfonline.com/doi/full/10.1080/10438599.2015.1127557), (with S. Borghesi, M. Mazzanti), 2016, Economics of Innovation and New Technology, 25(7), 692-713
 
 
-[Outsourcing and firm productivity in a specific local production system. Evidence from Reggio Emilia (Italy)](http://onlinelibrary.wiley.com/doi/10.1111/grow.12070/abstract) (with Mazzanti M., Montresor S., Pini P.), 2015, Growth and Change, vol.46, n.2, 292-320
+[Innovation adoption and training activities in SMEs](http://www.tandfonline.com/doi/full/10.1080/09585192.2015.1042901), (with E. Dellatorre), 2016, The International Journal of Human Resource Management, 27(3), 311-337
+
+
+[Outsourcing and firm productivity in a specific local production system. Evidence from Reggio Emilia (Italy)](http://onlinelibrary.wiley.com/doi/10.1111/grow.12070/abstract) (with Mazzanti M., Montresor S., Pini P.), 2015, Growth and Change, 46(2), 292-320
 
 	
-[Industry–research co-operation within and across regional boundaries. What does innovation policy add?](http://onlinelibrary.wiley.com/doi/10.1111/pirs.12079/abstract) (with Marzucchi A., Montresor S.), 2015, Papers in Regional Science, vol.94, n.3, 499-524
+[Industry–research co-operation within and across regional boundaries. What does innovation policy add?](http://onlinelibrary.wiley.com/doi/10.1111/pirs.12079/abstract) (with Marzucchi A., Montresor S.), 2015, Papers in Regional Science, 94(3), 499-524
 
 
-[Analysing the Interactions of Energy and climate policies in a broad Policy ‘optimality’ framework. The Italian case study](http://www.tandfonline.com/doi/full/10.1080/1943815X.2014.962549) (with S. Borghesi, A. D’Amato, M. Gilli, F. Nicolli, M. Mazzanti), 2014, Journal of Integrative Environmental Sciences, vol.11, n.3-4, 205-224
+[Analysing the Interactions of Energy and climate policies in a broad Policy ‘optimality’ framework. The Italian case study](http://www.tandfonline.com/doi/full/10.1080/1943815X.2014.962549) (with S. Borghesi, A. D’Amato, M. Gilli, F. Nicolli, M. Mazzanti), 2014, Journal of Integrative Environmental Sciences, 11(3-4), 205-224
 
  
-[Regional innovation policy and innovative behaviour. Looking for additional effects](http://www.tandfonline.com/doi/abs/10.1080/09654313.2012.722977) (with Marzucchi A., Montresor S.), 2014, European Planning Studies, vol.22, No. 1, 64–83. 
+[Regional innovation policy and innovative behaviour. Looking for additional effects](http://www.tandfonline.com/doi/abs/10.1080/09654313.2012.722977) (with Marzucchi A., Montresor S.), 2014, European Planning Studies, 22(1), 64–83. 
 
 
 [La debolezza dell'attività innovativa delle imprese Italiane](https://www.rivisteweb.it/doi/10.7384/75672), 2013, Economia & Lavoro, anno XLVII, pp.10-15
 
-[Is environmental innovation embedded within high-performance organizational changes? The role of human resource management and complementarity in green business strategies](http://www.sciencedirect.com/science/article/pii/S0048733313000036) (with Mancinelli S., Mazzanti M.), 2013, Research Policy, vol.42, pp.975-988.
+[Is environmental innovation embedded within high-performance organizational changes? The role of human resource management and complementarity in green business strategies](http://www.sciencedirect.com/science/article/pii/S0048733313000036) (with Mancinelli S., Mazzanti M.), 2013, Research Policy, 42, pp.975-988.
 
 
-[Innovation Strategies and Economic Crisis: Evidence fromFirm-level Italian Data](https://www.rivisteweb.it/doi/10.1428/73099) (with Bianchi A., Mazzanti M., Montresor S.  Pini P.), 2013, Economia Politica, XXX, n. 1, pp.15-49.
+[Innovation Strategies and Economic Crisis: Evidence fromFirm-level Italian Data](https://www.rivisteweb.it/doi/10.1428/73099) (with Bianchi A., Mazzanti M., Montresor S.  Pini P.), 2013, Economia Politica, XXX(1), pp.15-49.
 
 
-[Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension](http://www.inderscienceonline.com/doi/abs/10.1504/WRSTSD.2012.047685?journalCode=wrstsd) (with Marzucchi A.), 2012, World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", vol.9, n2/3/4, pp.124-148. 
+[Evaluating the Additionality of Innovation Policy. A Review Focused on the Behavioural Dimension](http://www.inderscienceonline.com/doi/abs/10.1504/WRSTSD.2012.047685?journalCode=wrstsd) (with Marzucchi A.), 2012, World Review of Science, Technology and Sustainable Development, special issue "Evaluating the Effect of Public Policies on Corporate R&D and Innovation: Processes and Behaviours, Measurement Methods and Indicators", 9(2/3/4), pp.124-148. 
 
-[Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A. e Pini P.), 2011, Quaderni di Rassegna Sindacale, vol.XII, n.2, pp.239-258. 
+[Valutazione di una politica regionale a sostegno dell’innovazione in Emilia-Romagna](http://www.ediesseonline.it/riviste/qrs/autori/davide-antonioli) (with Bianchi A. e Pini P.), 2011, Quaderni di Rassegna Sindacale, XII(2), pp.239-258. 
 
-[Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data](http://www.sciencedirect.com/science/article/pii/S1053535711000023), (with Manzalini R., Pini P.), 2011, Journal of Socio Economics, vol.40, n.3, pp.312-326. 
+[Innovation, Workers Skills and Industrial Relations: Empirical Evidence from Firm-level Italian Data](http://www.sciencedirect.com/science/article/pii/S1053535711000023), (with Manzalini R., Pini P.), 2011, Journal of Socio Economics, 40(3), pp.312-326. 
 
 
-[Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P), 2011,  Journal of Economic Studies, vol.38, n.1, pp.66-90. 
+[Innovation, Industrial Relations and Employee Outcomes: Evidence from Italy](http://www.emeraldinsight.com/doi/abs/10.1108/01443581111096150?journalCode=jes) (with. Mazzanti M., Pini P), 2011,  Journal of Economic Studies, 38(1), pp.66-90. 
 
 [The impact of production offshoring on the skill composition of manufacturing firms: Evidence from Italy](http://www.tandfonline.com/doi/abs/10.1080/02692171.2010.483461), (with Antonietti R.), 2011, International Review of Applied Economics, vol.25, n.1, pp.87-105. 
 
