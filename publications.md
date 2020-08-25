@@ -6,6 +6,7 @@ permalink: /publications/
 
 ### Articles
 
+[Estimating a non-neutral production function](https://doi.org/10.1093/oep/gpaa021), 2020, (with G. Gioldasis, A. Musolesi), Oxford Economic Papers, online-first
 
 [Specialization and KIBS in the Euro area: a vertically integrated sector perspective](https://www.tandfonline.com/doi/full/10.1080/02692171.2019.1708278), 2020, (with C. Di Berardino, G. Onesti), International Review of Applied Economics, 34(2), 267-290
 
