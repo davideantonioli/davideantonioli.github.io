@@ -7,11 +7,11 @@ permalink: /publications/
 ### Articles
 [Resilience, Performance and Strategies in Firms’ Reactions to the Direct and Indirect Effects of a Natural Disaster](https://link.springer.com/article/10.1007/s11067-021-09521-0), 2021, (with Marzucchi A., Modica M.), Networks and Spatial Economics, online-first
 
+[Innovation persistence in times of crisis: an analysis of Italian firms](https://doi.org/10.1007/s11187-019-00231-z), 2021, (with S. Montresor), Small Business Economics, 56, 1739–1764
+
 [Estimating a non-neutral production function](https://doi.org/10.1093/oep/gpaa021), 2020, (with G. Gioldasis, A. Musolesi), Oxford Economic Papers, online-first
 
 [Specialization and KIBS in the Euro area: a vertically integrated sector perspective](https://www.tandfonline.com/doi/full/10.1080/02692171.2019.1708278), 2020, (with C. Di Berardino, G. Onesti), International Review of Applied Economics, 34(2), 267-290
-
-[Innovation persistence in times of crisis: an analysis of Italian firms](https://doi.org/10.1007/s11187-019-00231-z), 2019, (with S. Montresor), Small Business Economics, online-first
 
 [Information communication technologies and environmental innovations in firms: joint adoptions and productivity effects](http://www.tandfonline.com/doi/full/10.1080/09640568.2017.1401528), 2018, (with G. Cecere, M. Mazzanti), Journal of Environmental Planning and Management, 61(11), 1905-1933
 
