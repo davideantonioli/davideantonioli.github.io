@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### Articles
+[Resilience, Performance and Strategies in Firms’ Reactions to the Direct and Indirect Effects of a Natural Disaster](https://link.springer.com/article/10.1007/s11067-021-09521-0), 2021, (with Marzucchi A., Modica M.), Networks and Spatial Economics, online-first
 
 [Estimating a non-neutral production function](https://doi.org/10.1093/oep/gpaa021), 2020, (with G. Gioldasis, A. Musolesi), Oxford Economic Papers, online-first
 
