@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Articles
+[Innovations and the circular economy: a national and regional perspective](https://doi.org/10.9770/IRD.2022.4.1(4)), 2022, (with Chioatto E., Mazzanti M.), Insights into Regional Development, 4, 57-70
+
 [Resilience, Performance and Strategies in Firms’ Reactions to the Direct and Indirect Effects of a Natural Disaster](https://link.springer.com/article/10.1007/s11067-021-09521-0), 2021, (with Marzucchi A., Modica M.), Networks and Spatial Economics, online-first
 
 [Innovation persistence in times of crisis: an analysis of Italian firms](https://doi.org/10.1007/s11187-019-00231-z), 2021, (with S. Montresor), Small Business Economics, 56, 1739–1764
