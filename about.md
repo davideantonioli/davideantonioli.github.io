@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I currently am a Full Professor in Economic Policy in the [Department of Economics and Management](http://eco.unife.it/it) at the University of Ferrara.
+I currently am a Full Professor in Economics in the [Department of Economics and Management](http://eco.unife.it/it) at the University of Ferrara.
 
 Formerly, I was an Associate Professor in Economic Policy in the [Department of Management and Business Administration](http://www.dea.unich.it/) at the University "G. d'Annunzio" of Chieti-Pescara (January 2016 - September 2019) and Associate professor in Economics in the [Department of Economics and Management](http://eco.unife.it/it) at the University of Ferrara (October 2019 - December 2021).
 
