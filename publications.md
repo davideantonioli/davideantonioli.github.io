@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Articles
+[Sustainable production: The economic returns of circular economy practices](https://onlinelibrary.wiley.com/doi/10.1002/bse.3046), 2022, (with Ghisetti C., Mazzanti M., Nicolli F.), Business Strategy and the Environment, online-first
+
 [Innovations and the circular economy: a national and regional perspective](https://doi.org/10.9770/IRD.2022.4.1(4)), 2022, (with Chioatto E., Mazzanti M.), Insights into Regional Development, 4, 57-70
 
 [Resilience, Performance and Strategies in Firms’ Reactions to the Direct and Indirect Effects of a Natural Disaster](https://link.springer.com/article/10.1007/s11067-021-09521-0), 2021, (with Marzucchi A., Modica M.), Networks and Spatial Economics, online-first
