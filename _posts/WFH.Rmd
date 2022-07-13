@@ -1,0 +1,53 @@
+---
+title: "Work From Home"
+output: html_document
+date: '2022-07-11'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(eurostat)
+library(tidyr)
+library(dplyr)
+```
+
+```{r WFH, include=FALSE}
+WFH <- get_eurostat(id="lfsa_ehomp",
+                    time_format = "num",
+                    type = "label",
+                    update_cache = TRUE
+                    )
+WFH_1 <- subset(WFH, age=="From 15 to 64 years" & wstatus=="Employees" & frequenc=="Usually")
+WFHMean <- WFH_1 %>%
+  group_by(time) %>%
+  summarise_at(vars(values), 
+               na.rm = TRUE, 
+               list(PercWFH = mean))
+M2019 <- subset(WFHMean, time=="2019")  %>%
+  round(digits=2)
+M2020 <- subset(WFHMean, time=="2020")  %>%
+  round(digits=2)
+M2021 <- subset(WFHMean, time=="2021")  %>%
+  round(digits=2)
+
+```
+## Working from home in EU countries
+
+<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
+
+<!-- When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this: -->
+A brief picture of the diffusion of the working from home maodality after the pandemic in EU countries.
+
+A clear huge revolution in the work organisation, which can not be dismissed as a temporary measure to overcome the Covid-19 pandemic.
+
+A simple measure give count of the phenomenon. The average percent of workers (employees) that usually work from home in the following three years: `r M2019`%, `r M2020`%, `r M2021`%.
+
+Moreover, as we can appreciate, the dynamic of the percentage of employees working from home (PercWFH) was rather flat in the past 30 years.
+
+Since the number of employees in EU countries is around 155 millions, the positive delta percent of 10 po
+ints registered from 2019 to 2021 in usually working from home  represent 15 millions employees.
+
+
+```{r WFHplot, echo=FALSE}
+plot(WFHMean)
+```
