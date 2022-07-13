@@ -1,8 +1,10 @@
 ---
+layout: post
 title: "Work From Home"
 output: html_document
 date: '2022-07-13'
 keep_md: true
+tags: [Work from home, Europe]
 ---
 
 ```{r setup, include=FALSE}
