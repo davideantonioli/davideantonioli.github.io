@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Work From Home"
-output: html_document
+output: 
+  md_document:
+    variant: markdown_github
 date: '2022-07-13'
 keep_md: true
 tags: [Work from home, Europe]
@@ -39,9 +41,7 @@ WFHMean <- rename(WFHMean, Year = "time")
 ```
 ## Working from home in EU countries
 
-<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
 
-<!-- When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this: -->
 A picture of the diffusion of the working from home modality during and 'after' the pandemic in EU countries.
 
 A clear huge revolution in the work organisation, which can not be dismissed as a temporary measure to overcome the Covid-19 pandemic.
