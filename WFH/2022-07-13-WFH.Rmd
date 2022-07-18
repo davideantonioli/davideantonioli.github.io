@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Work From Home"
-output: html_document
-# output: 
-#   md_document:
-#     variant: markdown_github
+# output: html_document
+output:
+  md_document:
+    variant: markdown_github
 date: '2022-07-13'
 keep_md: true
 tags: [Work from home, Europe]
