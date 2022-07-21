@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Work From Home"
+# output: html_document
+output: github_document
+  # output:
+  # md_document:
+  #   variant: markdown_github
+date: '2022-07-13'
+keep_md: true
+tags: [Work from home, Europe]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(eurostat)
+library(tidyr)
+library(dplyr)
+```
+
+```{r WFH, include=FALSE}
+WFH <- get_eurostat(id="lfsa_ehomp",
+                    time_format = "num",
+                    type = "label",
+                    update_cache = TRUE
+                    )
+WFH_1 <- subset(WFH, age=="From 15 to 64 years" & wstatus=="Employees" & frequenc=="Usually")
+WFHMean <- WFH_1 %>%
+  group_by(time) %>%
+  summarise_at(vars(values), 
+               na.rm = TRUE, 
+               list(PercWFH = mean))
+M2019 <- subset(WFHMean, time=="2019")  %>%
+  round(digits=2)
+M2020 <- subset(WFHMean, time=="2020")  %>%
+  round(digits=2)
+M2021 <- subset(WFHMean, time=="2021")  %>%
+  round(digits=2)
+
+WFHMean <- rename(WFHMean, Year = "time")
+
+
+```
+## Working from home in EU 
+
+
+A picture of the diffusion of the working from home modality during and 'after' the pandemic in EU countries.
+
+A clear huge revolution in the work organisation, which can not be dismissed as a temporary measure to overcome the Covid-19 pandemic.
+
+A simple measure gives count of the phenomenon. The average percent of workers (employees) that usually work from home in the following three years: `r M2019`%, `r M2020`%, `r M2021`%.
+
+Moreover, as we can appreciate, the dynamic of the percentage of employees usually working from home (PercWFH) was rather flat in the past thirty years, with a peak in the last two.
+
+Since the number of employees in EU countries is around 155 millions, the positive delta percent of 10 points registered from 2019 to 2021 for those employees 'usually working from home'  involved around 15 millions employees.
+
+
+```{r WFHplot, echo=FALSE, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(hrbrthemes)
+
+WFHMean %>%
+tail(10) %>%
+  ggplot( aes(x=Year, y=PercWFH)) +
+    geom_line( color="grey") +
+    geom_point(shape=21, color="black", fill="#69b3a2", size=6) +
+    labs(title = "Employees usually working from home (%)",
+              #subtitle = "Plot of length by dose",
+              caption = "Data source: Eurostat")
+    
+
+```
+
+For further insights see <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20210923-1>.
