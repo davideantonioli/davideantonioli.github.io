@@ -10,7 +10,7 @@ Formerly, I was an Associate Professor in Economic Policy in the [Department of 
 
 Look [here]({{ https://github.com/davideantonioli/davideantonioli.github.io/tree/master/ }}/images/CV_Europe.pdf) for an (almost) updated version of my CV.
 
-
+# Follow my blog [here]({{ https://davideantonioli.netlify.app/}})
 -----
 
 ### Contact
