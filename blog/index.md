@@ -5,6 +5,8 @@ title: Blog
 
 <!-- permalink: /blog/blog -->
 
+###Follow my blog [here](https://davideantonioli.netlify.app/)
+
  <div class="posts">
 {% for post in site.posts %}
   <article class="post">
