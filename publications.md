@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Articles
+[The intersectoral linkages and manufacturing productivity growth in Italian regions using the I-O approach](https://www.sciencedirect.com/science/article/pii/S0954349X2300053X), 2023, (with C. Di Berardino, G. Onesti), Structural Change and Economic Dynamics, 66, 120-133
+
 [Sustainable production: The economic returns of circular economy practices](https://onlinelibrary.wiley.com/doi/10.1002/bse.3046), 2022, (with Ghisetti C., Mazzanti M., Nicolli F.), Business Strategy and the Environment, 31, 2603-2617
 
 [Innovations and the circular economy: a national and regional perspective](https://doi.org/10.9770/IRD.2022.4.1(4)), 2022, (with Chioatto E., Mazzanti M.), Insights into Regional Development, 4, 57-70
