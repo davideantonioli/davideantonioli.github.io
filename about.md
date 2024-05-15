@@ -14,7 +14,7 @@ Look [here]({{ https://github.com/davideantonioli/davideantonioli.github.io/tree
 
 ### Blog
 
-Follow my blog [here](https://davideantonioli.netlify.app/)
+Follow my blog [here](https://blogda.netlify.app)
 
 -----
 
