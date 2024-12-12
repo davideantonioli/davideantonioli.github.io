@@ -18,6 +18,14 @@ Follow my blog [here](https://blogda.netlify.app)
 
 -----
 
+### Funded Projects
+
+PI of the [PRIN](https://prin.mur.gov.it/) project: CITYBLE - Developing Two-Sided Citizen Analytics for the Sustainable Digital Society
+
+PI of the project funded by the European Commission: Industrial Relations for Smart-Workers in Smart Cities ([IRsmart](/https://www.irsmart.eu/))
+
+-----
+
 ### Contact
 
 Davide Antonioli<br>
