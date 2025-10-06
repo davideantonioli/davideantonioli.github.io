@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Articles
+[Do firms consider their peers when going circular? Social norms among Italian firms in circular innovation adoption](https://doi.org/10.1016/j.ecolecon.2025.108707), 2025, (with E. Chioatto, S. Mancinelli, F. Nicolli), Ecological Economics, 237, onlinefirst
+
 [Robot adoption and product innovation](https://doi.org/10.1016/j.respol.2024.105002), 2024, (with A. Marzucchi, F. Rentocchini, S. Vannuccini), Research Policy, 53, in progress
 
 [The intersectoral linkages and manufacturing productivity growth in Italian regions using the I-O approach](https://www.sciencedirect.com/science/article/pii/S0954349X2300053X), 2023, (with C. Di Berardino, G. Onesti), Structural Change and Economic Dynamics, 66, 120-133
