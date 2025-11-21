@@ -4,7 +4,19 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Academic Year 2022-2023 
+
+Academic Year 2024-2025
+
+### [Labour Economics (UNIFE)](https://docente.unife.it/davide.antonioli/didattica)
+Undergraduate course 
+###  [Economic Policy (UNIFE)](https://docente.unife.it/davide.antonioli/didattica)
+Postgraduate course
+###  [Labour Economics and Economics of Innovation (UNIFE)](https://docente.unife.it/davide.antonioli/didattica)
+Postgraduate course 
+
+-----
+
+Academic Years 2022-2023 and 2023-2024
 
 ### [Labour Economics (UNIFE)](https://docente.unife.it/davide.antonioli/didattica)
 Undergraduate  
